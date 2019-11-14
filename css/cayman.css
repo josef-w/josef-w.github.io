@@ -118,7 +118,7 @@ a {
   .main-content h5,
   .main-content h6 {
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
     font-weight: normal;
     color: #159957; }
   .main-content p {
