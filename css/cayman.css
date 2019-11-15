@@ -184,10 +184,10 @@ a {
     padding: 0 1rem;
     margin-left: 0;
     position: relative;
-    top: 18px;
-    left: 10px;
     color: #819198;
-    border-left: 0.3rem solid #dce6f0; }
+    border-left: 0.3rem solid #dce6f0; 
+    top: 18px;
+    left: 10px;}
     .main-content blockquote > :first-child {
       margin-top: 0; }
     .main-content blockquote > :last-child {
