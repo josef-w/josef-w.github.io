@@ -181,8 +181,8 @@ a {
   .main-content ol {
     margin-top: 0; }
   .main-content blockquote {
-    padding: 0.1rem;
-    /* padding: 310px; */
+    /* padding: 0.1rem; */
+    padding: 310px;
     margin-left: 310px;
     color: #819198;
     border-left: 0.3rem solid #dce6f0; 
