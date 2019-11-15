@@ -185,7 +185,9 @@ a {
     margin-left: 0;
     position: relative;
     color: #819198;
-    border-left: 0.3rem solid #dce6f0; 
+    /* border-left: 0.3rem solid #dce6f0;  */
+    border-left: 10px solid #dce6f0; 
+
     top: 18px;
     left: 10px;}
     .main-content blockquote > :first-child {
