@@ -246,8 +246,8 @@ a {
 
   .header img {
     float: left;
-    width: 360px;
-    height: 250px;
+    width: screen/6;
+    height: 200px;
     background: #555;
   }
   
