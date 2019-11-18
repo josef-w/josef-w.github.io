@@ -186,9 +186,9 @@ a {
     margin-left: 10px;
     color: #819198;
     border-left: 0.3rem solid #dce6f0; 
-    /* position: relative; */
+    position: relative;
     top: 18px;
-    left: 400px;}
+    left: 10px;}
     .main-content blockquote > :first-child {
       margin-top: 0; }
     .main-content blockquote > :last-child {
