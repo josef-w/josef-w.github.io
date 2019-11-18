@@ -181,13 +181,13 @@ a {
   .main-content ol {
     margin-top: 0; }
   .main-content blockquote {
-    padding: 100px;
+    padding: 0px;
     /* padding: 310px; */
     margin-left: 0px;
     color: #819198;
     top: 18px;
-    left: 400px;
-    /* position: relative; */
+    left: 370px;
+    position: relative;
     border-left: 0.3rem solid #dce6f0; 
     }
 
