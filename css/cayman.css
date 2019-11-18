@@ -186,7 +186,7 @@ a {
     margin-left: 50px;
     color: #819198;
     border-left: 0.3rem solid #dce6f0; 
-    position: relative;
+    /* position: relative; */
     top: 18px;
     left: 450px;}
     .main-content blockquote > :first-child {
