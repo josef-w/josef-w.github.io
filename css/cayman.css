@@ -183,7 +183,7 @@ a {
   .main-content blockquote {
     padding: 200px;
     /* padding: 310px; */
-    margin-left: 300px;
+    margin-left: 0px;
     color: #819198;
     top: 18px;
     left: 370px;
