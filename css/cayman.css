@@ -181,14 +181,14 @@ a {
   .main-content ol {
     margin-top: 0; }
   .main-content blockquote {
-    padding: 0.1rem;
+    padding: 10px;
     /* padding: 310px; */
     margin-left: 10px;
     color: #819198;
     border-left: 0.3rem solid #dce6f0; 
-    position: relative;
+    /* position: relative; */
     top: 18px;
-    left: 10px;}
+    left: 370px;}
     .main-content blockquote > :first-child {
       margin-top: 0; }
     .main-content blockquote > :last-child {
