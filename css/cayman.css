@@ -181,6 +181,7 @@ a {
   .main-content ol {
     margin-top: 0; }
   .main-content blockquote {
+    display:block;
     padding: 0px;
     /* padding: 310px; */
     /* margin-left: 0px; */
