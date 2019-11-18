@@ -184,10 +184,11 @@ a {
     padding: 0px;
     /* padding: 310px; */
     margin-left: 0px;
+    position: relative;
     color: #819198;
     top: 18px;
     left: 0px;
-    position: relative;
+
     border-left: 0.3rem solid #dce6f0; 
     }
 
