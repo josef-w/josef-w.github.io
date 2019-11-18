@@ -188,7 +188,7 @@ a {
     border-left: 0.3rem solid #dce6f0; 
     position: relative;
     top: 18px;
-    /* left: 370px;} */
+    left: 370px;}
     .main-content blockquote > :first-child {
       margin-top: 0; }
     .main-content blockquote > :last-child {
